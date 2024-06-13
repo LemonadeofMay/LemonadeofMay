@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LemonadeofMay
+- 👋 Hi, I’m @LemonadeofMay, also call me Hazel.
 - 👀 I’m interested in music, acoustics, audio processing, and anything that will spark ideas in my creative process!
 - 🌱 I’m currently learning digital signal processing and the basics of AVR computer architecture.
 - 💞️ I’m looking to collaborate on ...
